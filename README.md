@@ -9,6 +9,6 @@ You can click the Preview link to take a look at your changes.
 
 👋 Hi, I’m @Sne4kers
 
-🌱 I’m currently studying at Delft University of Technology
+🌱 I am a Ukrainian student at Delft University of Technology
 
-🐍 I am currently playing around with pyQt              
+🐍 I am currently playing around with PyQt and Jupyter Notebooks
