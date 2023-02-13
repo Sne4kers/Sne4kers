@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 🌱 I am a Ukrainian student at Delft University of Technology
 
-🐍 I am currently playing around with PyQt and Jupyter Notebooks
+🛠 Currently working on a cool graphics demo in C++ and contributing to SynTest Core.
