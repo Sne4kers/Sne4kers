@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 
 👨🏼‍💻 I regularly solve problems here [![leetcode](https://cp-logo.vercel.app/leetcode/sne4kers?logo=true)](https://leetcode.com/sne4kers/)
 
-Open to new projects. Reach out to me here (You can find my CV there) [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/yehor-kozyr/)
+I am open to new projects. Reach out to me here [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/yehor-kozyr/) my latest CV can be found there or at https://github.com/Sne4kers/cv
